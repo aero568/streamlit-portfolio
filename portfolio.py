@@ -14,9 +14,9 @@ st.subheader("1. Real-time Stock Market Data Pipeline")
 st.write("Built a real-time data pipeline using Kafka, Spark, and PostgreSQL.")
 st.markdown("[🔗 GitHub Repo](https://github.com/yourusername/stock-pipeline)")
 
-st.subheader("2. ETL Pipeline for Public COVID-19 Data")
-st.write("Automated ETL pipeline using Airflow to extract and process COVID-19 data.")
-st.markdown("[🔗 GitHub Repo](https://github.com/yourusername/covid-etl)")
+st.subheader("2. ETL Pipeline for Weather Data")
+st.write("Automated ETL pipeline using Airflow to extract and process weather data.")
+st.markdown("[🔗 GitHub Repo](https://github.com/yourusername/weather-etl)")
 
 st.subheader("3. Twitter Sentiment Analysis")
 st.write("Streamed and analyzed tweets in real-time using PySpark and MongoDB.")
